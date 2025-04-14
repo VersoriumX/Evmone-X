@@ -1,5 +1,5 @@
 # evmone: Ethereum Virtual Machine
-# Copyright 2023 Pawel Bylica.
+# Copyright 2023 .
 # Licensed under the Apache License, Version 2.0. See the LICENSE file.
 
 set(RISCV /usr/local/riscv)
