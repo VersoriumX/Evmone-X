@@ -5,9 +5,9 @@
 
 #include <iosfwd>
 
-namespace evmone::test
+namespace VersoriumX::test
 {
 
 void run_eof_test(std::istream& input);
 
-}  // namespace evmone::test
+}  // namespace VersoriumX::test
